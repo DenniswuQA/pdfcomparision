@@ -11,3 +11,5 @@ Objective: To help comparing two pdf by pixel and highlight the differences
 
 3/ Result will be stored in result folder and Output will specify how the pixel differ between two.
 ![image](https://github.com/user-attachments/assets/3a499a57-d13c-4532-98a5-324743c7bf53)
+
+Note:Result will be auto deleted everytime you started the script.
