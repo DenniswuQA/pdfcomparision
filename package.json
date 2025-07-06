@@ -1,0 +1,9 @@
+{
+  "type":"module",
+  "dependencies": {
+    "fs-extra": "^11.2.0",
+    "pdf-poppler": "^0.2.1",
+    "pixelmatch": "^6.0.0",
+    "pngjs": "^7.0.0"
+  }
+}
